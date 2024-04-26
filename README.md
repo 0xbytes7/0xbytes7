@@ -1,4 +1,3 @@
-### There Is Nothing
 ### When The Galaxy..
 ![GIF](https://64.media.tumblr.com/eca96708daac19f72edc9ee6c6fdf567/tumblr_mjxdymh2ZU1s01f06o1_500.gifv)
 <hr />

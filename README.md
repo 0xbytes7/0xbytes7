@@ -1,4 +1,5 @@
-### When The Galaxy..
+### Natum esse monstrum.
+
 ![GIF](https://raw.githubusercontent.com/oxygencall/oxygencall/main/GOH.gif)
 <hr />
 

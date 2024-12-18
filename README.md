@@ -8,4 +8,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbytes7&layout=pie&hide_border=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" align="left">
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/haxor-research/count.svg" />
+<img src="https://profile-counter.glitch.me/0xbytes7/count.svg" />
